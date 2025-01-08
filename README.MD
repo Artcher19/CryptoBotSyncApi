@@ -4,7 +4,7 @@
         <img src="https://img.shields.io/github/license/artcher19/CryptoBotSyncApi?style=flat-square" />
     </a>
     <a href="https://t.me/send?start=r-2buqm">
-        <img src="https://img.shields.io/badge/telegram-group-blue?style=flat-square&logo=telegram" />
+        <img src="https://img.shields.io/badge/telegram-bot-blue?style=flat-square&logo=telegram" />
     </a>
     <a href="#">
         <img src="https://img.shields.io/github/stars/artcher19/CryptoBotSyncApi?style=social" />
