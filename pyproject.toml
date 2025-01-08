@@ -3,11 +3,11 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 [project]
 name = "CryptoBotSyncApi"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
  { name="Artcher", email="" },
 ]
-description = "Reliable library to "
+description = "Simple python library for CryptoBot (service CryptoPay) API"
 readme = "README.md"
 requires-python = ">=3.10.0"
 classifiers = [
